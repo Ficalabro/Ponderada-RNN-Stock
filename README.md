@@ -1,0 +1,1 @@
+# Ponderada-RNN-Stock
